@@ -48,7 +48,7 @@ This project is an IP geolocation analysis tool developed in Delphi. It works in
 
 1. `IP-Hacker.exe` dosyasını proje klasörüne ekleyin  
 2. Delphi projesini çalıştırın  
-3. `TMaskEdit` alanına geçerli bir IP adresi girin (örn: 95.70.175.83)  
+3. `TMaskEdit` alanına geçerli bir IP adresi girin (örn: 11.45.1.4)  
 4. "Başlat" butonuna tıklayın  
 5. Sonuçlar `TStringGrid` bileşenlerinde listelenecektir  
 
@@ -56,7 +56,7 @@ This project is an IP geolocation analysis tool developed in Delphi. It works in
 
 1. Add `IP-Hacker.exe` into the project folder  
 2. Run the Delphi project  
-3. Enter a valid IP address into the `TMaskEdit` field (e.g., 95.70.175.83)  
+3. Enter a valid IP address into the `TMaskEdit` field (e.g., 11.45.1.4)  
 4. Click the "Start" button  
 5. Results will be displayed in `TStringGrid` components
 
